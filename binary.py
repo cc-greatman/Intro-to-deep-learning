@@ -1,4 +1,4 @@
-from IPython.display import display
+
 import keras
 from keras import layers, callbacks
 from keras.callbacks import EarlyStopping
